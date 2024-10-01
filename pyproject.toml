@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sphinx_openapi"
+name = "sphinx_image_min"
 version = "1.0.0"
 description = "Sphinx extension for OpenAPI documentation"
 authors = ["Xsolla Backend <xbe@xsolla.com>"]
