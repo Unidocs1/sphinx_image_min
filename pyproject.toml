@@ -1,15 +1,14 @@
 [tool.poetry]
 name = "sphinx_image_min"
 version = "1.0.0"
-description = "Sphinx extension for OpenAPI documentation"
+description = "This Sphinx extension allows for automatically minimizing build dir images, most useful when only used for CI."
 authors = ["Xsolla Backend <xbe@xsolla.com>"]
 license = "All Rights Reserved"
 
 [tool.poetry.dependencies]
 python = "3.10"
 sphinx = "7.3.7"
-orjson = "3.10.7"
-requests = "^2.32.3"
+pillow = "^10.4.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
