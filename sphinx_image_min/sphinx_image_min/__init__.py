@@ -1,4 +1,4 @@
-# source/_extensions/sphinx_image_min/__init__.py
+# sphinx_image_min/__init__.py
 from sphinx.application import Sphinx
 from .sphinx_image_min import SphinxImageMin, optimize_images
 
