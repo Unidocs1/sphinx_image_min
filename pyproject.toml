@@ -2,7 +2,7 @@
 name = "sphinx_image_min"
 version = "1.0.6"
 description = "This Sphinx extension allows for automatically minimizing build dir images, most useful when only used for CI."
-authors = ["Xsolla Backend <xbe@xsolla.com>"]
+authors = ["Xsolla Backend <xbe@xsolla.com>", "Dylan Hunt <d.hunt@xsolla.com>"]
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
