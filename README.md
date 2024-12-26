@@ -1,5 +1,8 @@
 # Sphinx Extension: Image Minimizer
 
+<!-- Badges go here on the same line; PyPi doesn't support `\` or single-multi-line (it'll stack vertically) -->
+[![PyPI](https://img.shields.io/pypi/v/sphinx-image-min)](https://pypi.org/project/sphinx-image-min/) [![PyPI - License](https://img.shields.io/pypi/l/sphinx-image-min)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 This Sphinx extension allows for automatically minimizing build dir images, most useful when only used for CI.
