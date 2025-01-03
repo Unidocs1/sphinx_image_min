@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sphinx_image_min"
-version = "1.0.7"
+version = "1.0.8"
 description = "This Sphinx extension allows for automatically minimizing build dir images, most useful when only used for CI."
 authors = ["Xsolla Backend <xbe@xsolla.com>", "Dylan Hunt <d.hunt@xsolla.com>"]
 readme = "README.md"
